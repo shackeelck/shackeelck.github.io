@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2019 - 2022
 client: Travel Connection Maldives
 category: Web Development
-link: https://travellankaconnection.com
+link: https://travelconnectionmaldives.com
 description: Website design and development *Maldives Travel Project* 1.travelconnectionmaldives.com 3.maldivesholidays.online *Maldives Ecommerce Project* 1.icm4online.com 2.icoolmaldives.com *Sri Lanka Travel Projects*  1.travellankaconnection.com *Sri Lanka Ecommerce Project* 1.daybyday.lk 2.ozeninternational.lk
 ---
